@@ -1,0 +1,5 @@
+         0    777.77         0     0.100         1         0
+1 
+CONSTANT    1.000000E+00                           #anisotropy factor             
+CONSTANT    1.000000E-05                           #primary storage coefficient layer 1
+CONSTANT    5.000000E+01                           #horizontal hydraulic conductivity layer 1
